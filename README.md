@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Professora-Ary/Professora-Ary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Boas vindas ao meu perfil 💙💙
 Meu nome é Ariane ❤❤
 
